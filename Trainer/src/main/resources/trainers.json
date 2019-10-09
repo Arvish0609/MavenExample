@@ -1,0 +1,13 @@
+[
+	{
+		"name": "Zubair",
+		"stream": "JAVA",
+		"fees": 5000
+	},
+	
+	{
+		"name": "Rahul",
+		"stream": "JAVA",
+		"fees": 1000
+	}
+]
